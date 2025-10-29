@@ -14,6 +14,7 @@ public abstract class Merchandise {
         this.name = name;
         this.uniqueId = uniqueId;
         this.responsibleId = responsibleId;
+
     }
 
     public Merchandise(String name, String uniqueId, String responsibleId, int zone, String area, String shelf,
